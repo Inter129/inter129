@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sangho129</h1>
-- 🔭 I’m currently working on **ctool**
 
 - 🌱 I’m currently learning **C++, Java, NodeJS, C#**
 
